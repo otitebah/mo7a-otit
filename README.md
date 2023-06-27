@@ -5,7 +5,7 @@
 
 💻 I have a strong foundation in the C language and enjoy coding elegant and efficient solutions using this versatile language. My experience with C has allowed me to develop a deep understanding of its intricacies, from memory management to low-level system operations.
 
-🎯 At 42, I've been honing my programming skills through intensive project-based learning. I've successfully tackled various challenges, including implementing complex algorithms, managing data structures, and solving real-world problems.
+🎯 At 1337, I've been honing my programming skills through intensive project-based learning. I've successfully tackled various challenges, including implementing complex algorithms, managing data structures, and solving real-world problems.
 
 🌟 I'm committed to continuous improvement, always seeking ways to refine my coding techniques and learn new concepts. My passion for clean code, optimal performance, and robust software architecture drives me to consistently deliver high-quality work.
 
