@@ -15,6 +15,9 @@
 
 📫 Feel free to reach out to me for any coding-related discussions or collaboration opportunities. Let's connect and together, create impactful solutions through our love for coding!
 
+
+[![mo7a-otit's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mo7a-otit/mo7a-otit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
